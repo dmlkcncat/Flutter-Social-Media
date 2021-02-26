@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "475847023375",
+    "project_id": "projedamingo",
+    "storage_bucket": "projedamingo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475847023375:android:9de0a9f18aca8c9da2bc7a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475847023375-afnfsq0vl30p6segi3s18qiavktsokj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCIILqUKkI9f4Txh0xo0-8m-EzEshOKAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475847023375-afnfsq0vl30p6segi3s18qiavktsokj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
